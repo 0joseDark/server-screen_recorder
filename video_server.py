@@ -1,4 +1,8 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+# pip install flask
 # video_server.py
+
 from flask import Flask, Response, send_file
 import os
 
