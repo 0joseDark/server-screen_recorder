@@ -1,4 +1,8 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+# pip install flask
 # screen_recorder.py
+
 import pyautogui
 import cv2
 import numpy as np
