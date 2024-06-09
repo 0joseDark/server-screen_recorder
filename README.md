@@ -4,7 +4,7 @@
 # pip install opencv-python-headless numpy
 # pip install flask
 # sudo apt update
-# sudevapt upgrade
+# sudo apt upgrade
 # sudo apt install ff
 
 
