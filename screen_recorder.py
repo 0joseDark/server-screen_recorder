@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 # screen_recorder.py
 from PIL import ImageGrab
 import cv2
