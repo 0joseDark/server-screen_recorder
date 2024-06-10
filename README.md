@@ -6,5 +6,7 @@
 # sudo apt update
 # sudo apt upgrade
 # sudo apt install ff
+# pip3 install pillow opencv-python-headless numpy flask
+# 
 
 
